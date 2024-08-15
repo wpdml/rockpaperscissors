@@ -20,7 +20,7 @@ const choice = {
   },
   paper: {
     name: "Paper",
-    img: "https://5.imimg.com/data5/NR/PL/MY-2935579/plain-paper-sheet-500x500-500x500.jpg",
+    img: "https://media0.giphy.com/media/ozf26DV8FqaCpkYt6n/giphy.gif?cid=6c09b95280cf6lqof5l7kh61pw9pm3nxwrrc7hzeas4xv52q&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g",
   },
 };
 
